@@ -1,7 +1,7 @@
 Bacteria[] b;
 void setup(){   
  	size(1000,1000);
- 	background(255);
+ 	background(0);
  	frameRate(500);
  	b = new Bacteria[100];
  	for(int i = 0; i < b.length; i++){
